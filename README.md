@@ -3,11 +3,11 @@
 
 <div>
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/登录页面.jpg" width="300"/>
-<span width="100"/>
+&nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/好友列表.jpg" width="300"/>
 </div>
 <div>
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/聊天记录.jpg" width="300"/>
-<span width="100"/>
+&nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/聊天记录-分页功能.jpg" width="300"/>
 </div>
