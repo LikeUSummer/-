@@ -9,3 +9,8 @@
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/聊天记录.jpg" width="300" style="margin:30px 60px;"/>
 <img src="https://github.com/LikeUSummer/WeHistory/blob/master/聊天记录-分页功能.jpg" width="300" style="margin:30px 60px;"/>
 </div>
+
+## 捐赠
+如果觉得喜欢和有帮助，可以请作者喝杯西瓜汁鸭~
+支付宝：2667647118@qq.com
+微信：13618622955
